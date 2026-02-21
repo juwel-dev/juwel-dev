@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jens-Uwe
 
-**Solution Architect | Systems Thinker | Platform & Observability**
+**Solution Architect | Systems Thinker**
 
 I design software systems where technology, ownership, and organizational reality meet.
 
@@ -11,24 +11,19 @@ it’s building systems that survive scale, governance, and real-world complexit
 
 ## 🧩 Architecture Style
 
-I work from a socio-technical perspective.
+I design systems where decisions have technical and organizational consequences.
 
-Architecture fails less because of bad technology  
-and more because of misaligned ownership, incentives, and operating models.
+Technology is rarely the hardest part.
+Alignment, ownership, and operability are.
 
-How I think:
+My design principles:
 
-- System boundaries follow ownership boundaries  
-- Operability is a design requirement  
-- Platforms shape team behavior  
-- Governance should scale clarity, not control  
-- Technical debt often signals structural debt  
+- System boundaries follow ownership
+- Platforms must be operable by the teams who run them
+- Governance should scale clarity, not control
+- Technical debt often reflects structural debt
 
-I design in feedback loops:
-
-System → Team → Incentives → Behavior → Outcomes
-
-If those loops fight each other, the architecture will fail — regardless of tooling.
+If incentives and system design fight each other, the system will degrade — regardless of tooling.
 
 ---
 
